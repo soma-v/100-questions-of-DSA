@@ -8,3 +8,7 @@
 #### Output
 ![Day 2](https://i.imgur.com/9fSPx77.png)
 ![Day 2](https://i.imgur.com/apX2eIH.png)
+
+### Day 3 - Stack implementation using array
+#### Output
+![Day 3](https://i.imgur.com/kXDOCxu.png)
